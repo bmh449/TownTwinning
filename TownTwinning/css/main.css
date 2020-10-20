@@ -1,0 +1,135 @@
+//body {
+  //background: url("../assets/flag.png") repeat 0 0;
+//}
+
+h1 {
+  font-size: 2.5rem !important;
+}
+
+p {
+  font-size: 1.25rem;
+  font-weight: 300;
+
+}
+
+.jumbotron {
+  text-align: center;
+  background: none;
+  padding: 28px;
+
+}
+
+.SectionLight{
+  padding: 2rem;
+
+}
+
+.sectionDark{
+/**background-color: #cccccc;**/
+padding: 2rem;
+
+
+}
+
+#mainCarousel.carousel-item{
+  width: auto;
+  height: 225px;
+  max-height: 225px;
+
+
+
+}
+
+.car-height{
+  margin-top:-50px;
+}
+
+}
+
+.services{
+  margin-top: 10px;
+}
+
+.coolbutton{
+  background-color: red;
+  color: #fff;
+  display:block;
+  margin: auto;
+
+}
+
+.btn-primary{
+  display: block;
+  margin: auto;
+}
+
+
+
+a.emailto{
+  font-size: 20px;
+  font-weight: 600;
+}
+
+a.navbar-brand{
+  font-style: italic;
+}
+
+.nav-pos{
+  color: red;
+}
+
+.imgpaint{
+  display: block;
+  margin: auto;
+}
+
+.imgfooter{
+  padding:5px;
+
+
+}
+
+.footer.contact-foot{
+margin-top: 85px;
+
+
+}
+
+.contact-light{
+
+
+}
+
+.fa{
+  margin: 10px;
+  font-size: 40px;
+  float: right;
+
+
+}
+
+.fa-facebook-square{
+  color: #3b5998;
+}
+.fa-google-plus-square{
+  color: #c32f10;
+}
+
+.fa-instagram{
+  color: #fff;
+}
+
+.socialwrapper{
+  margin: auto;
+  float: right;
+}
+
+.foot-height{
+  margin-top: -32px;
+  height: 100px;
+}
+
+@media (min-width: 576px)
+.jumbotron {{
+  padding: 0,0;
+}
